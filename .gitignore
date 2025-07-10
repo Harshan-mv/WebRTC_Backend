@@ -1,0 +1,26 @@
+# Node.js (backend)
+node_modules/
+.env
+*.log
+
+# React (frontend)
+client/node_modules/
+client/.env
+client/build/
+client/.DS_Store
+
+# System
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# OS files
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
